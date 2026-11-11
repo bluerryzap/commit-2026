@@ -1,6 +1,6 @@
-# commit-2026
+# Optimasi Keuangan dan Gaya Hidup
 
-Website optimasi keuangan dan gaya hidup dengan React dan Vite.\
+Website optimasi keuangan dan gaya hidup dengan React dan Vite.
 
 ## Teknologi
 
